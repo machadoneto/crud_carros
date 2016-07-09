@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">CRUD Carros</string>
+    <string name="lista_todos">Listagem de todos os Carros</string>
+    <string name="lista_todosano">Lista por Ano</string>
+    <string name="lista_todosmarca">Lista por Marca</string>
+    <string name="lista_todosplaca">Lista por Placa</string>
+    <string name="lista_todosmodelo">Lista por Modelo</string>
+    <string-array name="marca">
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>GM/Chevrolet</item>
+        <item>Citroen</item>
+        <item>Ferrari</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Jac Motors</item>
+        <item>Kia</item>
+        <item>Lamborghini</item>
+        <item>Land Rover</item>
+        <item>Mercedes-Benz</item>
+        <item>Mitsubishi</item>
+        <item>Nissan</item>
+        <item>Peugeot</item>
+        <item>Porsche</item>
+        <item>Renault</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+    </string-array>
+    <string-array name="modelo">
+        <item>A1</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>A7</item>
+        <item>A8</item>
+        <item>X1</item>
+        <item>X3</item>
+        <item>X5</item>
+        <item>X6</item>
+        <item>Agile</item>
+        <item>Astra</item>
+        <item>Camaro</item>
+        <item>Captiva</item>
+        <item>Celta</item>
+        <item>Classic</item>
+        <item>Corsa</item>
+        <item>Cruze</item>
+        <item>Meriva</item>
+        <item>Montana</item>
+        <item>Omega</item>
+        <item>Onix</item>
+        <item>Prsima</item>
+        <item>S10</item>
+        <item>Vectra</item>
+        <item>Aircross</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C5</item>
+        <item>500</item>
+        <item>Bravo</item>
+        <item>Doblò</item>
+        <item>Fiat Mobi</item>
+        <item>Fiorino</item>
+        <item>Grand Siena</item>
+        <item>Idea</item>
+        <item>Linea</item>
+        <item>Mile</item>
+        <item>Palio</item>
+        <item>Punto</item>
+        <item>Siena</item>
+        <item>Strada</item>
+        <item>Uno</item>
+        <item>Courier</item>
+        <item>EcoSport</item>
+        <item>F-250</item>
+        <item>Fiesta</item>
+        <item>Focus</item>
+        <item>Fusion</item>
+        <item>Ka</item>
+        <item>New Fiesta</item>
+        <item>Ranger</item>
+        <item>City</item>
+        <item>Civic</item>
+        <item>Fit</item>
+        <item>Elantra</item>
+        <item>HB20</item>
+        <item>Sonata</item>
+        <item>Tucson</item>
+        <item>Veloster</item>
+        <item>i30</item>
+        <item>iX35</item>
+        <item>J2</item>
+        <item>J3</item>
+        <item>J5</item>
+        <item>J6</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>Cerato</item>
+        <item>Optima</item>
+        <item>Picanto</item>
+        <item>Sportage</item>
+        <item>Freelander 2</item>
+        <item>Ranger Rover Evoque</item>
+        <item>Range Rover Sport</item>
+        <item>Range Rover Vogue</item>
+        <item>ASX</item>
+        <item>L200</item>
+        <item>Lancer</item>
+        <item>Outlander</item>
+        <item>Pajero</item>
+        <item>Frontier</item>
+        <item>Sentra</item>
+        <item>2008</item>
+        <item>207</item>
+        <item>208</item>
+        <item>3008</item>
+        <item>307</item>
+        <item>308</item>
+        <item>408</item>
+        <item>508</item>
+        <item>Clio</item>
+        <item>Duster</item>
+        <item>Fluence</item>
+        <item>Sandero</item>
+        <item>Corolla</item>
+        <item>Hillux</item>
+        <item>Amarok</item>
+        <item>Crossfox</item>
+        <item>Fox</item>
+        <item>Fusca</item>
+        <item>Gol</item>
+        <item>Golf</item>
+        <item>Jetta</item>
+        <item>Kombi</item>
+        <item>Parati</item>
+        <item>Passat</item>
+        <item>Polo</item>
+        <item>Saveiro</item>
+        <item>SpaceFox</item>
+        <item>Up!</item>
+    </string-array>
+</resources>
